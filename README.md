@@ -33,3 +33,6 @@ Use autocomplete, as usual:
 `git log --oneline --graph --color` -> `пше лог --oneline --graph --color`
 
 ... and so on
+
+##Thanks
+Отличная идея, спасибо от Мишина Николая
